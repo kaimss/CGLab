@@ -1,0 +1,17 @@
+﻿  pline.cpp
+f:\vcproject\vcglproject\line\line\pline.cpp(12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\vcproject\vcglproject\line\line\pline.cpp(13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\vcproject\vcglproject\line\line\pline.cpp(14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\vcproject\vcglproject\line\line\pline.cpp(15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\vcproject\vcglproject\line\line\pline.cpp(28): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\vcproject\vcglproject\line\line\pline.cpp(29): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\vcproject\vcglproject\line\line\pline.cpp(37): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\vcproject\vcglproject\line\line\pline.cpp(38): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\vcproject\vcglproject\line\line\pline.cpp(40): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+f:\vcproject\vcglproject\line\line\pline.cpp(56): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\vcproject\vcglproject\line\line\pline.cpp(57): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\vcproject\vcglproject\line\line\pline.cpp(59): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+f:\vcproject\vcglproject\line\line\pline.cpp(179): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\vcproject\vcglproject\line\line\pline.cpp(270): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\vcproject\vcglproject\line\line\pline.cpp(300): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  line.vcxproj -> F:\VCproject\vcglproject\line\Debug\line.exe
