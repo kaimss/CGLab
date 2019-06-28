@@ -1,0 +1,16 @@
+﻿  readobj.cpp
+f:\vcproject\vcglproject\test\readobj\readobj.cpp(54): error C2065: “j”: 未声明的标识符
+f:\vcproject\vcglproject\test\readobj\readobj.cpp(56): error C2065: “j”: 未声明的标识符
+f:\vcproject\vcglproject\test\readobj\readobj.cpp(63): error C2065: “j”: 未声明的标识符
+f:\vcproject\vcglproject\test\readobj\readobj.cpp(65): error C2065: “j”: 未声明的标识符
+f:\vcproject\vcglproject\test\readobj\readobj.cpp(72): error C2065: “j”: 未声明的标识符
+f:\vcproject\vcglproject\test\readobj\readobj.cpp(74): error C2065: “j”: 未声明的标识符
+f:\vcproject\vcglproject\test\readobj\readobj.cpp(56): warning C4473: “fscanf”: 没有为格式字符串传递足够的参数
+  f:\vcproject\vcglproject\test\readobj\readobj.cpp(56): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  f:\vcproject\vcglproject\test\readobj\readobj.cpp(56): note: 缺失的可变参数 1 为格式字符串“%f”所需
+f:\vcproject\vcglproject\test\readobj\readobj.cpp(65): warning C4473: “fscanf”: 没有为格式字符串传递足够的参数
+  f:\vcproject\vcglproject\test\readobj\readobj.cpp(65): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  f:\vcproject\vcglproject\test\readobj\readobj.cpp(65): note: 缺失的可变参数 1 为格式字符串“%f”所需
+f:\vcproject\vcglproject\test\readobj\readobj.cpp(74): warning C4473: “fscanf”: 没有为格式字符串传递足够的参数
+  f:\vcproject\vcglproject\test\readobj\readobj.cpp(74): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  f:\vcproject\vcglproject\test\readobj\readobj.cpp(74): note: 缺失的可变参数 1 为格式字符串“%d”所需

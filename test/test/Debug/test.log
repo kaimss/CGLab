@@ -1,0 +1,20 @@
+﻿  test.cpp
+f:\vcproject\vcglproject\test\test\test.cpp(6): warning C4005: “GLUT_LEFT_BUTTON”: 宏重定义
+  f:\vcproject\vcglproject\test\packages\nupengl.core.0.1.0.1\build\native\include\gl\freeglut_std.h(154): note: 参见“GLUT_LEFT_BUTTON”的前一个定义
+f:\vcproject\vcglproject\test\test\test.cpp(7): warning C4005: “GLUT_MIDDLE_BUTTON”: 宏重定义
+  f:\vcproject\vcglproject\test\packages\nupengl.core.0.1.0.1\build\native\include\gl\freeglut_std.h(155): note: 参见“GLUT_MIDDLE_BUTTON”的前一个定义
+f:\vcproject\vcglproject\test\test\test.cpp(8): warning C4005: “GLUT_RIGHT_BUTTON”: 宏重定义
+  f:\vcproject\vcglproject\test\packages\nupengl.core.0.1.0.1\build\native\include\gl\freeglut_std.h(156): note: 参见“GLUT_RIGHT_BUTTON”的前一个定义
+f:\vcproject\vcglproject\test\test\test.cpp(9): warning C4005: “GLUT_DOWN”: 宏重定义
+  f:\vcproject\vcglproject\test\packages\nupengl.core.0.1.0.1\build\native\include\gl\freeglut_std.h(157): note: 参见“GLUT_DOWN”的前一个定义
+f:\vcproject\vcglproject\test\test\test.cpp(10): warning C4005: “GLUT_UP”: 宏重定义
+  f:\vcproject\vcglproject\test\packages\nupengl.core.0.1.0.1\build\native\include\gl\freeglut_std.h(158): note: 参见“GLUT_UP”的前一个定义
+f:\vcproject\vcglproject\test\test\test.cpp(27): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+f:\vcproject\vcglproject\test\test\test.cpp(162): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\vcproject\vcglproject\test\test\test.cpp(186): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\vcproject\vcglproject\test\test\test.cpp(197): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\vcproject\vcglproject\test\test\test.cpp(231): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\vcproject\vcglproject\test\test\test.cpp(240): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\vcproject\vcglproject\test\test\test.cpp(249): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+f:\vcproject\vcglproject\test\test\test.cpp(258): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  test.vcxproj -> F:\VCproject\vcglproject\test\Debug\test.exe
