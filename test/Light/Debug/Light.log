@@ -1,3 +1,0 @@
-﻿  light.cpp
-f:\vcproject\vcglproject\test\light\light.cpp(17): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
-  Light.vcxproj -> F:\VCproject\vcglproject\test\Debug\Light.exe

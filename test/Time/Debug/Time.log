@@ -1,3 +1,0 @@
-﻿  time.cpp
-f:\vcproject\vcglproject\test\time\time.cpp(12): warning C4326: “main”的返回类型应为“int”而非“void”
-  Time.vcxproj -> F:\VCproject\vcglproject\test\Debug\Time.exe
